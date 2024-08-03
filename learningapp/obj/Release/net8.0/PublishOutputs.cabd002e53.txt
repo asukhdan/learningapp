@@ -1,0 +1,7 @@
+/Users/ashishsukhdane/Documents/Project/TMP/learningapp/bin/publish/learningapp
+/Users/ashishsukhdane/Documents/Project/TMP/learningapp/bin/publish/appsettings.Development.json
+/Users/ashishsukhdane/Documents/Project/TMP/learningapp/bin/publish/appsettings.json
+/Users/ashishsukhdane/Documents/Project/TMP/learningapp/bin/publish/learningapp.dll
+/Users/ashishsukhdane/Documents/Project/TMP/learningapp/bin/publish/learningapp.deps.json
+/Users/ashishsukhdane/Documents/Project/TMP/learningapp/bin/publish/learningapp.runtimeconfig.json
+/Users/ashishsukhdane/Documents/Project/TMP/learningapp/bin/publish/learningapp.pdb
